@@ -1,11 +1,28 @@
-# MoGLo-Net
+<h1 align="center">MoGLo-Net</h1>
 
-**Enhancing Free-Hand 3-D Photoacoustic and Ultrasound Reconstruction Using Deep Learning**  
-*IEEE Transactions on Medical Imaging*, 44(11), 4652–4665, 2025
+<p align="center">
+  <strong>Enhancing Free-Hand 3-D Photoacoustic and Ultrasound Reconstruction Using Deep Learning</strong>
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1109/TMI.2025.3579454"><img src="https://img.shields.io/badge/Paper-IEEE%20TMI%202025-97BC43?style=flat-square" alt="Paper: IEEE TMI 2025"></a>
+  <a href="#citation"><img src="https://img.shields.io/badge/Citation-BibTeX-307BB5?style=flat-square" alt="Citation: BibTeX"></a>
+</p>
+
+<p align="center">
+  <strong>SiYeoul Lee<sup>1</sup> · Seonho Kim<sup>1</sup> · MinKyung Seo<sup>1</sup> · SeongKyu Park<sup>1</sup> · Salehin Imrus<sup>1</sup> · Kambaluru Ashok<sup>1</sup> · DongEon Lee<sup>1</sup> · Chunsu Park<sup>2</sup> · SeonYeong Lee<sup>1</sup> · Jiye Kim<sup>1</sup> · Jae-Heung Yoo<sup>3</sup> · MinWoo Kim<sup>2,4</sup></strong>
+</p>
+
+<p align="center">
+  <sup>1</sup> Department of Information Convergence Engineering, Pusan National University, Yangsan, South Korea<br>
+  <sup>2</sup> School of Biomedical Convergence Engineering, Pusan National University, Yangsan, South Korea<br>
+  <sup>3</sup> Department of Orthopedic Surgery, Busan Medical Center, Busan, South Korea<br>
+  <sup>4</sup> Center for Artificial Intelligence Research, Pusan National University, Busan, South Korea
+</p>
+
+<p align="center"><em>IEEE Transactions on Medical Imaging</em>, 44(11), 4652–4665, 2025</p>
 
 MoGLo-Net estimates six-degree-of-freedom probe motion from consecutive B-mode ultrasound images, without an external tracking sensor. It combines patch-wise feature correlation, global-local attention, and recurrent motion estimation. Predicted scan trajectories are used for 3D reconstruction of ultrasound, power Doppler, and photoacoustic images.
-
-[**Paper**](https://doi.org/10.1109/TMI.2025.3579454)
 
 ---
 

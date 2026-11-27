@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>SiYeoul Lee<sup>1</sup> · Seonho Kim<sup>1</sup> · MinKyung Seo<sup>1</sup> · SeongKyu Park<sup>1</sup> · Salehin Imrus<sup>1</sup> · Kambaluru Ashok<sup>1</sup> · DongEon Lee<sup>1</sup> · Chunsu Park<sup>2</sup> · SeonYeong Lee<sup>1</sup> · Jiye Kim<sup>1</sup> · Jae-Heung Yoo<sup>3</sup> · MinWoo Kim<sup>2,4</sup></strong>
+  <strong>SiYeoul Lee<sup>1</sup> · Seonho Kim<sup>1</sup> · MinKyung Seo<sup>1</sup> · SeongKyu Park<sup>1</sup> · Salehin Imrus<sup>1</sup> · Kambaluru Ashok<sup>1</sup> · DongEon Lee<sup>1</sup> · Chunsu Park<sup>2</sup> · SeonYeong Lee<sup>1</sup> · Jiye Kim<sup>1</sup> · Jae-Heung Yoo<sup>3</sup> · MinWoo Kim<sup>2,4,*</sup></strong>
 </p>
 
 <p align="center">
@@ -19,6 +19,8 @@
   <sup>3</sup> Department of Orthopedic Surgery, Busan Medical Center, Busan, South Korea<br>
   <sup>4</sup> Center for Artificial Intelligence Research, Pusan National University, Busan, South Korea
 </p>
+
+<p align="center">* Corresponding author</p>
 
 <p align="center"><em>IEEE Transactions on Medical Imaging</em>, 44(11), 4652–4665, 2025</p>
 

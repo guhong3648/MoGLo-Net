@@ -22,7 +22,11 @@
 
 <p align="center"><em>IEEE Transactions on Medical Imaging</em>, 44(11), 4652–4665, 2025</p>
 
+<div align="justify">
+
 MoGLo-Net estimates six-degree-of-freedom probe motion from consecutive B-mode ultrasound images, without an external tracking sensor. It combines patch-wise feature correlation, global-local attention, and recurrent motion estimation. Predicted scan trajectories are used for 3D reconstruction of ultrasound, power Doppler, and photoacoustic images.
+
+</div>
 
 ---
 
@@ -48,24 +52,48 @@ MoGLo-Net estimates six-degree-of-freedom probe motion from consecutive B-mode u
 
 ## 1. Environment
 
+<div align="justify">
+
 The repository includes a Docker-based environment for dependencies such as PyTorch3D.
+
+</div>
 
 ```bash
 # From the host
 docker pull guhong3648/guhong:v1
 ```
 
+<div align="justify">
+
 The repository also contains a `requirements.txt` file. It reflects the original research environment and includes environment-specific package references, so the Docker image is the simpler starting point.
+
+</div>
 
 ## 2. Data
 
+<div align="justify">
+
 The `data/` directory contains a small sample intended to check the data-loading and execution pipeline. **It is not the full dataset used for the paper's training or evaluation.**
+
+</div>
+
+<div align="justify">
 
 The public freehand ultrasound dataset used in the study is available from [Zenodo](https://zenodo.org/records/7740734), with preprocessing details in the [UCL CANDI repository](https://github.com/ucl-candi/freehand). We used the central `320 × 320` region of the original `480 × 640` B-mode frames.
 
+</div>
+
+<div align="justify">
+
 For the public dataset, see:
 
+</div>
+
+<div align="justify">
+
 Q. Li et al., "Trackerless Freehand Ultrasound with Sequence Modelling and Auxiliary Transformation over Past and Future Frames," *IEEE ISBI*, 2023. [DOI](https://doi.org/10.1109/ISBI53787.2023.10230773)
+
+</div>
 
 ## 3. Repository Structure
 
@@ -81,7 +109,11 @@ US3D/
 
 ## Citation
 
+<div align="justify">
+
 If you use the code or results in your work, please cite:
+
+</div>
 
 ```bibtex
 @article{Lee_2025_MoGLo,

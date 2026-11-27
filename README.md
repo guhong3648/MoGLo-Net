@@ -14,13 +14,11 @@
 </p>
 
 <p align="center">
-  <sup>1</sup> Department of Information Convergence Engineering, Pusan National University, Yangsan, South Korea<br>
-  <sup>2</sup> School of Biomedical Convergence Engineering, Pusan National University, Yangsan, South Korea<br>
-  <sup>3</sup> Department of Orthopedic Surgery, Busan Medical Center, Busan, South Korea<br>
-  <sup>4</sup> Center for Artificial Intelligence Research, Pusan National University, Busan, South Korea
+  <sup>1</sup> Department of Information Convergence Engineering, Pusan National University, South Korea<br>
+  <sup>2</sup> School of Biomedical Convergence Engineering, Pusan National University, South Korea<br>
+  <sup>3</sup> Department of Orthopedic Surgery, Busan Medical Center, South Korea<br>
+  <sup>4</sup> Center for Artificial Intelligence Research, Pusan National University, South Korea
 </p>
-
-<p align="center">* Corresponding author</p>
 
 <p align="center"><em>IEEE Transactions on Medical Imaging</em>, 44(11), 4652–4665, 2025</p>
 

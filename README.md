@@ -65,7 +65,7 @@ The public freehand ultrasound dataset used in the study is available from [Zeno
 
 For the public dataset, see:
 
-Q. Li et al., "Trackerless Freehand Ultrasound with Sequence Modelling and Auxiliary Transformation over Past and Future Frames," *IEEE ISBI*, 2023. [DOI](https://doi.org/10.1109/ISBI53787.2023.10230773).
+Q. Li et al., "Trackerless Freehand Ultrasound with Sequence Modelling and Auxiliary Transformation over Past and Future Frames," *IEEE ISBI*, 2023. [DOI](https://doi.org/10.1109/ISBI53787.2023.10230773)
 
 ## 3. Repository Structure
 
